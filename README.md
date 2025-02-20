@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://cineverse.app" target="_blank">
+    <a href="https://cineverse.shop/" target="_blank">
       <img src="https://github.com/RayanTheAnalyticArchitect/Cineverse_React_app/assets/banner.png" alt="Project Banner">
     </a>
   <br />
@@ -85,5 +85,6 @@ All assets and public images used in the project can be found in the **public/**
 ## 🚀 More
 This project is part of **my web development portfolio**. Follow my GitHub for more React.js and Data projects.
 
+🔗 **[Live Website](https://cineverse.shop/)**  
 🔗 **[GitHub Profile](https://github.com/RayanTheAnalyticArchitect)**  
 🔗 **[LinkedIn](https://linkedin.com/in/rayan-noronha)**
